@@ -21,7 +21,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -281,10 +280,6 @@
 - [vascofazza/Cloxie-connect](https://github.com/vascofazza/Cloxie-connect) - Android application that connects to the Cloxie nixie clock.
 - [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 
-## Makefile 
-
-- [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -407,7 +402,6 @@
 
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [danieleds/GFS](https://github.com/danieleds/GFS) - GFS: a Graph-based File System Enhanced with Semantic Features
-- [MGiuliaCecchini/envirobot](https://github.com/MGiuliaCecchini/envirobot) - 
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [vascofazza/8bit-cpu](https://github.com/vascofazza/8bit-cpu) - Schematics & code for my 74LS-based 8-bit MK1 CPU
 - [vascofazza/indoor-outdoor-image-classifier](https://github.com/vascofazza/indoor-outdoor-image-classifier) - A CNN-based i​mage classifier​ capable of detecting if a scene is ​indoors or outdoors.
@@ -551,7 +545,6 @@
 
 ## TypeScript 
 
-- [Actyx/quickstart](https://github.com/Actyx/quickstart) - ActyxOS sample applications
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gcanti/functional-programming](https://github.com/gcanti/functional-programming) - Introduction to Functional Programming (Italian)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
@@ -562,7 +555,6 @@
 
 ## Vim Script 
 
-- [sd65/MiniVim](https://github.com/sd65/MiniVim) - My way to see Vim.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## Zig 
