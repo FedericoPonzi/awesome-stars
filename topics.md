@@ -121,7 +121,6 @@
 - [software](#software)
 - [sql](#sql)
 - [storybook](#storybook)
-- [sublime-text](#sublime-text)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -774,9 +773,7 @@
 - [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
-- [Actyx/quickstart](https://github.com/Actyx/quickstart) - ActyxOS sample applications
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
-- [MGiuliaCecchini/envirobot](https://github.com/MGiuliaCecchini/envirobot) - 
 - [sunriseos/SunriseOS](https://github.com/sunriseos/SunriseOS) - Horizon/NX kernel reimplementation
 - [rust-vmm/vmm-reference](https://github.com/rust-vmm/vmm-reference) - A VMM implementation based of rust-vmm components
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
@@ -1003,7 +1000,6 @@
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [joaoventura/full-speed-python](https://github.com/joaoventura/full-speed-python) - Full Speed Python: a book for self-learners
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -1141,10 +1137,6 @@
 ## storybook 
 
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
-
-## sublime-text 
-
-- [sd65/MiniVim](https://github.com/sd65/MiniVim) - My way to see Vim.
 
 ## swift 
 
