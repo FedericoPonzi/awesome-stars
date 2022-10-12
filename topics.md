@@ -354,6 +354,7 @@
 
 ## database 
 
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -744,6 +745,7 @@
 
 ## others 
 
+- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [pski/model2archive](https://github.com/pski/model2archive) - 
 - [ex-punctis/not-so-random](https://github.com/ex-punctis/not-so-random) - A script [js + plotly.js] that guesses your next input no matter how random you try to be
@@ -1061,6 +1063,7 @@
 
 ## rust 
 
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [0xSiO/bolt-rs](https://github.com/0xSiO/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust! ⚡🔩
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
