@@ -562,7 +562,7 @@
 
 ## Zig 
 
-- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - A distributed financial accounting database designed for mission critical safety and performance.
+- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance.
 
 
 ## License
