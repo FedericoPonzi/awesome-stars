@@ -511,7 +511,6 @@
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - Shaming sites with dumb password rules.
@@ -837,6 +836,7 @@
 - [vascofazza/GameBoy-MK3-Build](https://github.com/vascofazza/GameBoy-MK3-Build) - An home-made handheld game console based on the RaspberryPi 3 and a GameBoy shell. High-definition screen, HDMI output, RTC, digital brightness control, cooling fan and much more!
 - [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
 - [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
