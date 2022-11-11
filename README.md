@@ -27,6 +27,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [Prolog](#prolog)
 - [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -395,6 +396,10 @@
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections
+
+## Prolog 
+
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
 
 ## Pug 
 
