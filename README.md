@@ -185,6 +185,7 @@
 
 ## Java 
 
+- [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [ntsim/hot-spring-docker](https://github.com/ntsim/hot-spring-docker) - Hot Reload Spring Boot in Docker with local devtools
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
