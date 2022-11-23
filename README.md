@@ -47,6 +47,7 @@
 
 ## Assembly 
 
+- [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
 - [rdebath/viruses](https://github.com/rdebath/viruses) - Hundreds of 20th Century viruses; clone this repository to upset your AV
