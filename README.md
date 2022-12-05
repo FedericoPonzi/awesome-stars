@@ -459,6 +459,7 @@
 
 ## Rust 
 
+- [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for the BFV fully homomorphic encryption scheme
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
