@@ -370,7 +370,7 @@
 
 ## database 
 
-- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+- [cozodb/cozo](https://github.com/cozodb/cozo) - A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms. And it is performant!
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
