@@ -57,6 +57,7 @@
 
 ## C 
 
+- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
@@ -219,7 +220,7 @@
 - [google/santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
 - [andriusvelykis/ml-dev](https://github.com/andriusvelykis/ml-dev) - Eclipse plug-in for Standard ML
 - [rengwuxian/MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - EditText in Material Design
-- [lecho/hellocharts-android](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
+- [lecho/hellocharts-android](https://github.com/lecho/hellocharts-android) - Charts library for Android compatible with API 8+, several chart types with scaling, scrolling and animations 📊
 - [google/physical-web](https://github.com/google/physical-web) - The Physical Web: walk up and use anything
 - [jjoe64/GraphView-Demos](https://github.com/jjoe64/GraphView-Demos) - Examples for my Android GraphView library
 - [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) - [DEPRECATED] An Android library which allows developers to easily add animations to ListView items
