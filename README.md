@@ -50,7 +50,7 @@
 
 - [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
-- [corkami/pics](https://github.com/corkami/pics) - Posters, drawings...
+- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [rdebath/viruses](https://github.com/rdebath/viruses) - Hundreds of 20th Century viruses; clone this repository to upset your AV
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
