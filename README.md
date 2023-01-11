@@ -310,7 +310,7 @@
 - [langjam/langjam](https://github.com/langjam/langjam) - 
 - [AeroRust/Welcome](https://github.com/AeroRust/Welcome) - Welcome to AeroRust- a Rust 🦀 in Aerospace 🚀 community & working group
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [nauts-community/awesomenauts](https://github.com/nauts-community/awesomenauts) - Repository proposing upcycling of awesomenauts (game)
 - [deptofdefense/hack-aviation-library](https://github.com/deptofdefense/hack-aviation-library) - A collection of learning resources for budding aviation security researchers
