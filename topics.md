@@ -151,7 +151,6 @@
 
 ## analytics 
 
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
@@ -196,7 +195,6 @@
 
 ## automation 
 
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 
 ## awesome 
@@ -1109,7 +1107,6 @@
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
@@ -1208,7 +1205,7 @@
 
 ## vue 
 
-- [skerkour/bloom](https://github.com/skerkour/bloom) - The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 
 ## web 
