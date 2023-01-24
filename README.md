@@ -291,6 +291,7 @@
 
 ## Markdown 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## OCaml 
@@ -538,7 +539,6 @@
 ## Shell 
 
 - [pski/model2archive](https://github.com/pski/model2archive) - 
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
