@@ -124,6 +124,7 @@
 - [software](#software)
 - [sql](#sql)
 - [storybook](#storybook)
+- [svelte](#svelte)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
@@ -1175,6 +1176,10 @@
 ## storybook 
 
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
+
+## svelte 
+
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
 
 ## swift 
 
