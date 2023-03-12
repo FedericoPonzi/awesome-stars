@@ -132,6 +132,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -1220,6 +1221,10 @@
 
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Svelte, Vue and you name 
+
+## vuejs 
+
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 
 ## web 
 
