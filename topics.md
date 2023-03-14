@@ -773,6 +773,7 @@
 
 ## others 
 
+- [codyd51/axle](https://github.com/codyd51/axle) - a UNIX-like kernel + userspace
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for the BFV fully homomorphic encryption scheme
 - [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
