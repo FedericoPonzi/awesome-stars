@@ -322,6 +322,7 @@
 - [langjam/langjam](https://github.com/langjam/langjam) - 
 - [AeroRust/Welcome](https://github.com/AeroRust/Welcome) - Welcome to AeroRust- a Rust 🦀 in Aerospace 🚀 community & working group
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
+- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [nauts-community/awesomenauts](https://github.com/nauts-community/awesomenauts) - Repository proposing upcycling of awesomenauts (game)
@@ -505,7 +506,6 @@
 - [kubos/kubos](https://github.com/kubos/kubos) - An open source platform for satellites
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
-- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rushmorem/publicsuffix](https://github.com/rushmorem/publicsuffix) - An implementation of Mozilla's Public Suffix List in Rust
 - [sunriseos/SunriseOS](https://github.com/sunriseos/SunriseOS) - Horizon/NX kernel reimplementation
