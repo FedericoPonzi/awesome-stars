@@ -43,6 +43,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
 - [es6](#es6)
@@ -417,6 +418,14 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## education 
+
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
+- [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
+- [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## electron 
 
