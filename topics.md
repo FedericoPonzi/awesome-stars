@@ -101,6 +101,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -1010,6 +1011,10 @@
 
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [rushmorem/publicsuffix](https://github.com/rushmorem/publicsuffix) - An implementation of Mozilla's Public Suffix List in Rust
+
+## penetration-testing 
+
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFI
 
 ## php 
 
