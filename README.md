@@ -108,6 +108,7 @@
 
 ## C++ 
 
+- [aws/aws-lc](https://github.com/aws/aws-lc) - AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
@@ -480,6 +481,7 @@
 
 ## Rust 
 
+- [awslabs/aws-lc-rs](https://github.com/awslabs/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for the BFV fully homomorphic encryption scheme
