@@ -1119,6 +1119,7 @@
 
 ## rust 
 
+- [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
