@@ -481,6 +481,7 @@
 
 ## Rust 
 
+- [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [awslabs/aws-lc-rs](https://github.com/awslabs/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
