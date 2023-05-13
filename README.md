@@ -454,7 +454,6 @@
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [alex-sherman/deco](https://github.com/alex-sherman/deco) - 
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
