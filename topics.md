@@ -19,6 +19,7 @@
 - [babel](#babel)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -287,9 +288,14 @@
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
+## bitcoin 
+
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
+
 ## blockchain 
 
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 
 ## bootstrap 
 
@@ -894,7 +900,6 @@
 - [tylertreat/CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [hackergrrl/ipfs-blog](https://github.com/hackergrrl/ipfs-blog) - :globe_with_meridians: Host a blog ..without the hosting!
-- [anders94/blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [AlexAltea/unicorn.js](https://github.com/AlexAltea/unicorn.js) - Unicorn CPU emulator framework port for JavaScript
 - [zhenlohuang/awesome-distributed-systems](https://github.com/zhenlohuang/awesome-distributed-systems) - A curated list of awesome distributed systems books, papers, resources and shiny things.
