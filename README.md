@@ -546,6 +546,7 @@
 
 ## Scala 
 
+- [apache/incubator-pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
 - [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 
 ## Shell 
