@@ -552,6 +552,7 @@
 
 ## Shell 
 
+- [Mubelotix/wasm-extension-template](https://github.com/Mubelotix/wasm-extension-template) - An easy-to-use template for Rust web extensions. The Rust code is compiled to WASM and ran as a content script.
 - [pski/model2archive](https://github.com/pski/model2archive) - 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
