@@ -21,7 +21,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -292,10 +291,6 @@
 - [vascofazza/Cloxie-connect](https://github.com/vascofazza/Cloxie-connect) - Android application that connects to the Cloxie nixie clock.
 - [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 
-## Makefile 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
 ## Markdown 
 
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
@@ -379,6 +374,7 @@
 - [nuprl/10PL](https://github.com/nuprl/10PL) - 10 papers that all PhD students in programming languages ought to know, for some value of 10
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [kjw0612/awesome-rnn](https://github.com/kjw0612/awesome-rnn) - Recurrent Neural Network - A curated list of resources dedicated to RNN
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [grvcoelho/css-styleguide](https://github.com/grvcoelho/css-styleguide) - :book: Opinionated CSS styleguide for scalable applications
