@@ -127,6 +127,7 @@
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book) - 
 - [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 
 ## Dockerfile 
 
@@ -460,7 +461,6 @@
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [reinderien/mimic](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 
 ## Ruby 
 
