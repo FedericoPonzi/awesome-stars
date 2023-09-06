@@ -195,6 +195,7 @@
 
 ## Java 
 
+- [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is an explicit state model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [ntsim/hot-spring-docker](https://github.com/ntsim/hot-spring-docker) - Hot Reload Spring Boot in Docker with local devtools
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -566,6 +567,7 @@
 
 ## TLA 
 
+- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA+ specifications of varying complexities
 - [Azure/azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
 - [lemmy/BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial "Weeks of debugging can save you hours of TLA+".  Each git commit introduces a new concept =&gt; check the git history!
 
@@ -577,6 +579,7 @@
 
 ## TypeScript 
 
+- [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gcanti/functional-programming](https://github.com/gcanti/functional-programming) - Introduction to Functional Programming (Italian)
