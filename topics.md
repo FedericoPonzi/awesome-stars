@@ -164,7 +164,6 @@
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [mttbernardini/mbencrypter](https://github.com/mttbernardini/mbencrypter) - :closed_lock_with_key: This program will help you encrypting or decrypting some data or a file using MB's algorithm. NB: this project has been supeseded by https://github.com/mttbernardini/mbc
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## analytics 
 
@@ -387,7 +386,6 @@
 
 - [japaric/heapless](https://github.com/japaric/heapless) - Heapless, `static` friendly data structures
 - [EbTech/rust-algorithms](https://github.com/EbTech/rust-algorithms) - Common data structures and algorithms in Rust
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
 ## data-visualization 
 
