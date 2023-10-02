@@ -18,6 +18,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [babel](#babel)
+- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
@@ -281,6 +282,10 @@
 ## babel 
 
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
+
+## backend 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## bash 
 
@@ -571,7 +576,6 @@
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
-- [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
