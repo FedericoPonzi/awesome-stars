@@ -58,7 +58,6 @@
 
 ## C 
 
-- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [codyd51/axle](https://github.com/codyd51/axle) - a message-passing kernel + userspace
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
@@ -475,6 +474,7 @@
 
 ## Rust 
 
+- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
