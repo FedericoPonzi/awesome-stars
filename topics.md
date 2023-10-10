@@ -18,7 +18,6 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [bitcoin](#bitcoin)
@@ -282,10 +281,6 @@
 ## babel 
 
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
-
-## backend 
-
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## bash 
 
@@ -568,6 +563,7 @@
 
 ## hacktoberfest 
 
+- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -826,7 +822,6 @@
 
 ## others 
 
-- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list) - List of bugs found in distributed protocols
@@ -1051,6 +1046,7 @@
 
 ## p2p 
 
+- [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
