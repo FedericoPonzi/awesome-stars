@@ -474,6 +474,7 @@
 
 ## Rust 
 
+- [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library.
 - [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
