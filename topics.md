@@ -30,6 +30,7 @@
 - [cli](#cli)
 - [coding](#coding)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
@@ -354,6 +355,16 @@
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [nitlang/nit](https://github.com/nitlang/nit) - Nit language
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+
+## computer-science 
+
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [vicky002/AlgoWiki](https://github.com/vicky002/AlgoWiki) - Repository which contains links and resources on different topics of Computer Science.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## computer-vision 
 
@@ -682,7 +693,7 @@
 
 ## language 
 
-- [informalsystems/quint](https://github.com/informalsystems/quint) - Quint is a tool for *understanding*. It is an executable specification language with design and tooling focused on usability. It is based on the Temporal Logic of Actions
+- [informalsystems/quint](https://github.com/informalsystems/quint) - Executable specification language with delightful tooling
 - [ValeLang/Vale](https://github.com/ValeLang/Vale) - Compiler for the Vale programming language - http://vale.dev/
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
@@ -927,7 +938,6 @@
 - [vascofazza/GameBoy-MK3-Build](https://github.com/vascofazza/GameBoy-MK3-Build) - An home-made handheld game console based on the RaspberryPi 3 and a GameBoy shell. High-definition screen, HDMI output, RTC, digital brightness control, cooling fan and much more!
 - [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
 - [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
