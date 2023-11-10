@@ -497,7 +497,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl) - single file, std only, async Rust executor
-- [awslabs/smithy-rs](https://github.com/awslabs/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
+- [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra) - Rust Memory Safety & Undefined Behavior Detection
 - [sgmarz/osblog](https://github.com/sgmarz/osblog) - The Adventures of OS
 - [awslabs/shuttle](https://github.com/awslabs/shuttle) - Shuttle is a library for testing concurrent Rust code
