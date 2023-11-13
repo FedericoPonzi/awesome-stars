@@ -475,6 +475,7 @@
 
 ## Rust 
 
+- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library.
 - [Actyx/Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
