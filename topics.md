@@ -834,6 +834,7 @@
 
 ## others 
 
+- [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
 - [NotCamelCase/Accellant](https://github.com/NotCamelCase/Accellant) - Demo SoC
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
