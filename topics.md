@@ -829,6 +829,7 @@
 
 ## others 
 
+- [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
 - [NotCamelCase/Accellant](https://github.com/NotCamelCase/Accellant) - Demo SoC
