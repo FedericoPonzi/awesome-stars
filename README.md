@@ -580,7 +580,6 @@
 
 - [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list) - List of bugs found in distributed protocols
 - [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
-- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## TypeScript 
 
