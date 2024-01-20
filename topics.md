@@ -823,6 +823,7 @@
 - [davxy/beeos](https://github.com/davxy/beeos) - A simple "Unix-like" kernel trying to be POSIX compliant
 - [rust-embedded/register-rs](https://github.com/rust-embedded/register-rs) - Unified interface for type-safe MMIO and CPU register access in Rust
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
+- [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 
