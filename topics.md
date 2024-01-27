@@ -147,6 +147,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [web-development](#web-development)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -834,7 +835,7 @@
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
 - [NotCamelCase/Accellant](https://github.com/NotCamelCase/Accellant) - Demo SoC
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
-- [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
+- [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list) - List of bugs found in distributed protocols
 - [apache/incubator-pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
 - [vascofazza/vascofazza.github.io](https://github.com/vascofazza/vascofazza.github.io) - Source for my personal website
@@ -1334,6 +1335,11 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
+
+## web-development 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## webapp 
 
