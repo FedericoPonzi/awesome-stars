@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [AsciiDoc](#asciidoc)
 - [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
@@ -41,10 +40,6 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
-
-## AsciiDoc 
-
-- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 2nd Edition - Programming the Open Blockchain
 
 ## Assembly 
 
@@ -175,6 +170,7 @@
 - [lampepfl/progfun-wiki](https://github.com/lampepfl/progfun-wiki) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
 - [jgthms/web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes) - Learn the basics of web design in 4 minutes
 - [efoxepstein/stupid-machines](https://github.com/efoxepstein/stupid-machines) - Experimentations with Abstract Machines
 - [ageitgey/node-unfluff](https://github.com/ageitgey/node-unfluff) - Automatically extract body content (and other cool stuff) from an html document
@@ -571,6 +567,7 @@
 
 ## TLA 
 
+- [will62794/tla-web](https://github.com/will62794/tla-web) - TLA+ Web Explorer.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA+ specifications of varying complexities
 - [Azure/azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
