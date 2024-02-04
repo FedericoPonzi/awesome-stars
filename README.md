@@ -79,7 +79,7 @@
 - [vascofazza/gertCloner](https://github.com/vascofazza/gertCloner) - Raspberry Pi program to clone HDMI output to GERT666 VGA
 - [vascofazza/raspidmx](https://github.com/vascofazza/raspidmx) - Some examples using the DispmanX API on the Raspberry Pi
 - [vascofazza/Retropie-open-OSD](https://github.com/vascofazza/Retropie-open-OSD) - A powerful, informative, native, efficient, super cool, on-screen display software for Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [mathieupassenaud/resume_operating_system](https://github.com/mathieupassenaud/resume_operating_system) - my resume in a home made operating system
 - [rdebath/SLS-1.02](https://github.com/rdebath/SLS-1.02) - The Linux distribution from 1993
