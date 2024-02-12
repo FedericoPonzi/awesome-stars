@@ -481,7 +481,6 @@
 - [0xSiO/bolt-rs](https://github.com/0xSiO/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust! ⚡🔩
 - [luamfb/tempest-lcd](https://github.com/luamfb/tempest-lcd) - Play music from your LCD monitor with a radio
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-- [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [estebank/makeit](https://github.com/estebank/makeit) - Zero-overhead type-safe builder pattern `derive` macro for your Rust structs
