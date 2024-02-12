@@ -855,7 +855,6 @@
 - [danieleds/GFS](https://github.com/danieleds/GFS) - GFS: a Graph-based File System Enhanced with Semantic Features
 - [dsavransky/astrodynamicsbook](https://github.com/dsavransky/astrodynamicsbook) - 
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-- [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [SymbianSource/oss.FCL.sf.os.kernelhwsrv](https://github.com/SymbianSource/oss.FCL.sf.os.kernelhwsrv) - Symbian OS Kernel
 - [WhatsApp/waraft](https://github.com/WhatsApp/waraft) - An Erlang implementation of RAFT from WhatsApp
