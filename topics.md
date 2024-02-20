@@ -830,6 +830,7 @@
 
 ## others 
 
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
 - [will62794/tla-web](https://github.com/will62794/tla-web) - TLA+ Web Explorer.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
