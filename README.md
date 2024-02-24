@@ -565,7 +565,7 @@
 
 - [will62794/tla-web](https://github.com/will62794/tla-web) - TLA+ Web Explorer.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
-- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA+ specifications of varying complexities
+- [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities
 - [Azure/azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
 - [lemmy/BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial "Weeks of debugging can save you hours of TLA+".  Each git commit introduces a new concept =&gt; check the git history!
 
