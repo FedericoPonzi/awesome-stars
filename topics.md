@@ -296,7 +296,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GPG symmetric password manager
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric password manager
 
 ## bioinformatics 
 
@@ -938,7 +938,7 @@
 - [vascofazza/GameBoy-MK3-Build](https://github.com/vascofazza/GameBoy-MK3-Build) - An home-made handheld game console based on the RaspberryPi 3 and a GameBoy shell. High-definition screen, HDMI output, RTC, digital brightness control, cooling fan and much more!
 - [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
-- [corkami/pics](https://github.com/corkami/pics) - File formats explanations, logos redrawing...
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [grahamjenson/list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [tylertreat/CS-Literature-of-the-Day](https://github.com/tylertreat/CS-Literature-of-the-Day) - A curated list of computer science literature, updated daily.
