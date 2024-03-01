@@ -475,7 +475,7 @@
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
+- [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
