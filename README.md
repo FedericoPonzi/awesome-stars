@@ -541,7 +541,7 @@
 
 ## Scala 
 
-- [apache/incubator-pekko](https://github.com/apache/incubator-pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+- [apache/pekko](https://github.com/apache/pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
 - [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 
 ## Shell 
