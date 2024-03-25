@@ -832,6 +832,7 @@
 
 ## others 
 
+- [guidoism/tex-oberon](https://github.com/guidoism/tex-oberon) - Make Project Oberon Pretty Again
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
 - [will62794/tla-web](https://github.com/will62794/tla-web) - TLA+ Web Explorer.
