@@ -48,6 +48,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [emulator](#emulator)
 - [es6](#es6)
 - [eslint](#eslint)
@@ -463,6 +464,12 @@
 - [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 - [Kilian/fromscratch](https://github.com/Kilian/fromscratch) - Autosaving Scratchpad. A simple but smart note-taking app
 
+## embedded 
+
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
+- [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
+- [rust-embedded/register-rs](https://github.com/rust-embedded/register-rs) - Unified interface for type-safe MMIO and CPU register access in Rust
+
 ## emulator 
 
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
@@ -853,7 +860,6 @@
 - [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [pski/model2archive](https://github.com/pski/model2archive) - 
 - [ex-punctis/not-so-random](https://github.com/ex-punctis/not-so-random) - A script [js + plotly.js] that guesses your next input no matter how random you try to be
 - [luamfb/tempest-lcd](https://github.com/luamfb/tempest-lcd) - Play music from your LCD monitor with a radio
