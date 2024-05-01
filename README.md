@@ -565,7 +565,7 @@
 
 ## TLA 
 
-- [will62794/tla-web](https://github.com/will62794/tla-web) - Web-based environment for exploring TLA+ specifications.
+- [will62794/tla-web](https://github.com/will62794/tla-web) - Interactive, web-based environment for exploring TLA+ specifications.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities
 - [Azure/azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
