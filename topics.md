@@ -843,7 +843,7 @@
 - [guidoism/tex-oberon](https://github.com/guidoism/tex-oberon) - Make Project Oberon Pretty Again
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
-- [will62794/tla-web](https://github.com/will62794/tla-web) - Web-based environment for exploring TLA+ specifications.
+- [will62794/tla-web](https://github.com/will62794/tla-web) - Interactive, web-based environment for exploring TLA+ specifications.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
