@@ -470,6 +470,7 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library.
