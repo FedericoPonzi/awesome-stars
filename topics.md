@@ -67,7 +67,6 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
-- [graphql](#graphql)
 - [gulp](#gulp)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -564,10 +563,6 @@
 ## google 
 
 - [google/santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
-
-## graphql 
-
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 
 ## gulp 
 
