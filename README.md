@@ -109,6 +109,7 @@
 - [Kobzol/hardware-effects](https://github.com/Kobzol/hardware-effects) - Demonstration of various hardware effects.
 - [Azure/RSL](https://github.com/Azure/RSL) - Replicated State Library. RSL is the Azure Paxos implementation which is used by multiple products in Azure and Bing. It provides the traditional Paxos functionality in a real world implementation. RS
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [vascofazza/cloxie_nixie_clock](https://github.com/vascofazza/cloxie_nixie_clock) - Schematics and code for Cloxie: my Nixie Tube Clock.
 - [vascofazza/computer_graphics-Pathtrace](https://github.com/vascofazza/computer_graphics-Pathtrace) - Realistic pathtracer implementation in C++ with depth of field, motion blur, mesh area light sampling, russian roulette (for faster ray termination), hair rendering and skin rendering (translucency)
 - [vascofazza/computer_graphics-raytracer](https://github.com/vascofazza/computer_graphics-raytracer) - Simple raytracer implementation in C++ with extra features
@@ -314,9 +315,7 @@
 - [langjam/langjam](https://github.com/langjam/langjam) - 
 - [AeroRust/Welcome](https://github.com/AeroRust/Welcome) - Welcome to AeroRust- a Rust 🦀 in Aerospace 🚀 community & working group
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
-- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
-- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [nauts-community/awesomenauts](https://github.com/nauts-community/awesomenauts) - Repository proposing upcycling of awesomenauts (game)
 - [deptofdefense/hack-aviation-library](https://github.com/deptofdefense/hack-aviation-library) - A collection of learning resources for budding aviation security researchers
 - [deptofdefense/hack-a-sat-library](https://github.com/deptofdefense/hack-a-sat-library) - Public library of space documents and tutorials
@@ -504,6 +503,7 @@
 - [kubos/kubos](https://github.com/kubos/kubos) - An open source platform for satellites
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
+- [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 - [riker-rs/riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
 - [rushmorem/publicsuffix](https://github.com/rushmorem/publicsuffix) - An implementation of Mozilla's Public Suffix List in Rust
 - [sunriseos/SunriseOS](https://github.com/sunriseos/SunriseOS) - Horizon/NX kernel reimplementation
