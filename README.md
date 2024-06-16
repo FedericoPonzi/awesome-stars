@@ -566,6 +566,7 @@
 
 ## TLA 
 
+- [muratdem/PlusCal-examples](https://github.com/muratdem/PlusCal-examples) - Pluscal/TLA+ modeling of distributed systems/protocols
 - [tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
 - [will62794/tla-web](https://github.com/will62794/tla-web) - Interactive, web-based environment for exploring TLA+ specifications.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
