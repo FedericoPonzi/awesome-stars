@@ -839,6 +839,7 @@
 
 ## others 
 
+- [muratdem/PlusCal-examples](https://github.com/muratdem/PlusCal-examples) - Pluscal/TLA+ modeling of distributed systems/protocols
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [guidoism/tex-oberon](https://github.com/guidoism/tex-oberon) - Make Project Oberon Pretty Again
