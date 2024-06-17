@@ -35,6 +35,7 @@
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [cryptography](#cryptography)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-science](#data-science)
@@ -384,6 +385,14 @@
 
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+## cryptography 
+
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+- [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
+- [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
+- [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
+- [mttbernardini/mbencrypter](https://github.com/mttbernardini/mbencrypter) - :closed_lock_with_key: This program will help you encrypting or decrypting some data or a file using MB's algorithm. NB: this project has been supeseded by https://github.com/mttbernardini/mbc
 
 ## css 
 
@@ -859,7 +868,6 @@
 - [aws/aws-lc-rs](https://github.com/aws/aws-lc-rs) - aws-lc-rs is a cryptographic library using AWS-LC for its cryptographic operations. The library strives to be API-compatible with the popular Rust library named ring.
 - [aws/aws-lc](https://github.com/aws/aws-lc) - AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.
 - [codyd51/axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
-- [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
 - [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
 - [rkuhn/acto](https://github.com/rkuhn/acto) - Actor library for Rust
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
