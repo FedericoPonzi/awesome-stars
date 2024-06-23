@@ -417,6 +417,7 @@
 
 ## Python 
 
+- [fizzbee-io/fizzbee](https://github.com/fizzbee-io/fizzbee) - Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [danieleds/GFS](https://github.com/danieleds/GFS) - GFS: a Graph-based File System Enhanced with Semantic Features
@@ -566,6 +567,7 @@
 
 ## TLA 
 
+- [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
 - [muratdem/PlusCal-examples](https://github.com/muratdem/PlusCal-examples) - Pluscal/TLA+ modeling of distributed systems/protocols
 - [tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
 - [will62794/tla-web](https://github.com/will62794/tla-web) - Interactive, web-based environment for exploring TLA+ specifications.
