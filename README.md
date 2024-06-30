@@ -429,7 +429,6 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [jacopo-j/TrenitaliaAPI](https://github.com/jacopo-j/TrenitaliaAPI) - Reverse engineering dell'API dell'app di Trenitalia
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [vascofazza/gbzattinymonitor](https://github.com/vascofazza/gbzattinymonitor) - Game Boy Zero custom Battery Level monitor based on ATtiny85 over I2C
 - [manrajgrover/halo](https://github.com/manrajgrover/halo) - 💫 Beautiful spinners for terminal, IPython and Jupyter
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
