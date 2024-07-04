@@ -1006,7 +1006,6 @@
 - [jcrobak/parquet-python](https://github.com/jcrobak/parquet-python) - python implementation of the parquet columnar file format.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [AntJanus/programmers-proverbs](https://github.com/AntJanus/programmers-proverbs) - Proverbs from the programmer
-- [samsquire/ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
 - [elder-cb/teesites](https://github.com/elder-cb/teesites) - A public list of great sites to buy awesome t-shirts and other cool stuff.
 - [nuprl/10PL](https://github.com/nuprl/10PL) - 10 papers that all PhD students in programming languages ought to know, for some value of 10
 - [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet) - Android component which presents a dismissible view from the bottom of the screen
