@@ -134,7 +134,6 @@
 
 ## Erlang 
 
-- [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 - [WhatsApp/waraft](https://github.com/WhatsApp/waraft) - An Erlang implementation of RAFT from WhatsApp
 
 ## Go 
@@ -545,6 +544,7 @@
 ## Scala 
 
 - [apache/pekko](https://github.com/apache/pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+- [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 
 ## Shell 
 
