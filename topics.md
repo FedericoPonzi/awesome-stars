@@ -915,7 +915,6 @@
 - [dtolnay/paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs
 - [moshix/CP-67-CMS-Source](https://github.com/moshix/CP-67-CMS-Source) - This is the original source code for the CP/67 CMS operating system from 1969
 - [rust-embedded/embedonomicon](https://github.com/rust-embedded/embedonomicon) - How to bootstrap support for a no_std target
-- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [alepez/devand](https://github.com/alepez/devand) - DevAndDev helps developers finding pair-programming partners.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [vascofazza/chip8-emulator](https://github.com/vascofazza/chip8-emulator) - A Chip-8 emulator written in Rust
@@ -1130,6 +1129,7 @@
 
 ## python 
 
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [gunthercox/ChatterBot](https://github.com/gunthercox/ChatterBot) - ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
