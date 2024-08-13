@@ -115,7 +115,7 @@
 - [vascofazza/computer_graphics-raytracer](https://github.com/vascofazza/computer_graphics-raytracer) - Simple raytracer implementation in C++ with extra features
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [vascofazza/GameBoy-MK3-Build](https://github.com/vascofazza/GameBoy-MK3-Build) - An home-made handheld game console based on the RaspberryPi 3 and a GameBoy shell. High-definition screen, HDMI output, RTC, digital brightness control, cooling fan and much more!
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [phaistos-networks/TANK](https://github.com/phaistos-networks/TANK) - A very high performance distributed log service
 - [baidu/bfs](https://github.com/baidu/bfs) - The Baidu File System.
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library
