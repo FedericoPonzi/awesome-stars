@@ -763,7 +763,7 @@
 
 ## markdown 
 
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
@@ -1337,7 +1337,7 @@
 
 ## vim 
 
-- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## vue 
