@@ -851,6 +851,7 @@
 
 ## others 
 
+- [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - Specification-Driven Development Kit, In Spec We Trust
 - [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
 - [fizzbee-io/fizzbee](https://github.com/fizzbee-io/fizzbee) - Easiest-ever formal methods language! Designed for developers crafting distributed systems, microservices, and cloud applications
