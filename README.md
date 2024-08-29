@@ -82,7 +82,7 @@
 - [vascofazza/gertCloner](https://github.com/vascofazza/gertCloner) - Raspberry Pi program to clone HDMI output to GERT666 VGA
 - [vascofazza/raspidmx](https://github.com/vascofazza/raspidmx) - Some examples using the DispmanX API on the Raspberry Pi
 - [vascofazza/Retropie-open-OSD](https://github.com/vascofazza/Retropie-open-OSD) - A powerful, informative, native, efficient, super cool, on-screen display software for Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [mathieupassenaud/resume_operating_system](https://github.com/mathieupassenaud/resume_operating_system) - my resume in a home made operating system
 - [rdebath/SLS-1.02](https://github.com/rdebath/SLS-1.02) - The Linux distribution from 1993
@@ -591,7 +591,7 @@
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gcanti/functional-programming](https://github.com/gcanti/functional-programming) - Introduction to Functional Programming (Italian)
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
