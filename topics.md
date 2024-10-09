@@ -788,6 +788,7 @@
 
 ## markdown 
 
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -1237,6 +1238,7 @@
 
 ## rust 
 
+- [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos) - OmniPaxos is a distributed log implemented as a Rust library.
 - [Mubelotix/wasm-extension-template](https://github.com/Mubelotix/wasm-extension-template) - An easy-to-use template for Rust web extensions. The Rust code is compiled to WASM and ran as a content script.
