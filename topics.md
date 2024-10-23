@@ -872,6 +872,7 @@
 
 ## others 
 
+- [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - In Spec We Trust
 - [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
