@@ -200,6 +200,7 @@
 
 ## Java 
 
+- [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
 - [ntsim/hot-spring-docker](https://github.com/ntsim/hot-spring-docker) - Hot Reload Spring Boot in Docker with local devtools
