@@ -55,6 +55,7 @@
 
 ## C 
 
+- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [codyd51/axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
