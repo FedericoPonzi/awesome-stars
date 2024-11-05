@@ -611,7 +611,6 @@
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
