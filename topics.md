@@ -871,6 +871,7 @@
 
 ## others 
 
+- [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
 - [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
 - [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
