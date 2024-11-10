@@ -551,6 +551,7 @@
 
 ## games 
 
+- [ghfbsd/adventure](https://github.com/ghfbsd/adventure) - The ancestral computer game, circa 1976.
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## git 
