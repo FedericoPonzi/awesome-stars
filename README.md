@@ -195,6 +195,7 @@
 - [Chadderz121/bakingpi-www](https://github.com/Chadderz121/bakingpi-www) - Website for Baking Pi: Operating Systems Development tutorial (Raspberry Pi)
 - [outdatedbrowser/outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.
 - [ericdrowell/BigOCheatSheet](https://github.com/ericdrowell/BigOCheatSheet) - 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 
 ## Haskell 
@@ -401,7 +402,6 @@
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
 - [GoogleCloudPlatform/gradle-appengine-templates](https://github.com/GoogleCloudPlatform/gradle-appengine-templates) - Freemarker based templates that build with the gradle-appengine-plugin
 - [googlearchive/android-XYZTouristAttractions](https://github.com/googlearchive/android-XYZTouristAttractions) - Migrated:
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [codepath/android_guides](https://github.com/codepath/android_guides) - Extensive Open-Source Guides for Android Developers
 
 ## PHP 
