@@ -857,7 +857,7 @@
 - [vinc/moros](https://github.com/vinc/moros) - MOROS: Obscure Rust Operating System 🦉
 - [LemonOSProject/LemonOS](https://github.com/LemonOSProject/LemonOS) - The Lemon Operating System
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
-- [manticoreos/manticore](https://github.com/manticoreos/manticore) - Manticore is a research operating system, written in Rust.
+- [penberg/manticore](https://github.com/penberg/manticore) - Manticore is a research operating system, written in Rust.
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and a
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -1258,7 +1258,7 @@
 - [smithy-lang/smithy-rs](https://github.com/smithy-lang/smithy-rs) - Code generation for the AWS SDK for Rust, as well as server and generic smithy client generation.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
-- [manticoreos/manticore](https://github.com/manticoreos/manticore) - Manticore is a research operating system, written in Rust.
+- [penberg/manticore](https://github.com/penberg/manticore) - Manticore is a research operating system, written in Rust.
 - [AeroRust/Welcome](https://github.com/AeroRust/Welcome) - Welcome to AeroRust- a Rust 🦀 in Aerospace 🚀 community & working group
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
