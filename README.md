@@ -67,7 +67,7 @@
 - [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system
-- [manticoreos/manticore](https://github.com/manticoreos/manticore) - Manticore is a research operating system, written in Rust.
+- [penberg/manticore](https://github.com/penberg/manticore) - Manticore is a research operating system, written in Rust.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
