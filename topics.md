@@ -871,6 +871,7 @@
 
 ## others 
 
+- [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
 - [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
 - [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
