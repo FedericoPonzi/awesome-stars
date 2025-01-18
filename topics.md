@@ -1074,7 +1074,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [FiloSottile/whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io) - A ssh server that knows who you are. $ ssh whoami.filippo.io
 - [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
-- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [AndroidDeveloperLB/MaterialPreferenceLibrary](https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary) - Allows to have an ActionBar on PreferenceActivity
 - [AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat) - a minimal, distraction-free chat application
 - [pazdera/catpix](https://github.com/pazdera/catpix) - Print images in the terminal using Ruby.
