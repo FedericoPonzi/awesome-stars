@@ -553,7 +553,7 @@
 
 ## SCSS 
 
-- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 
 ## Scala 
 
