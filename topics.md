@@ -870,6 +870,7 @@
 
 ## others 
 
+- [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
 - [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
