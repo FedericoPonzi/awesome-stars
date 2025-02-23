@@ -177,6 +177,7 @@
 
 ## analytics 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## android 
@@ -433,12 +434,13 @@
 
 ## database 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [cozodb/cozo](https://github.com/cozodb/cozo) - A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI!
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
@@ -870,6 +872,7 @@
 
 ## others 
 
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
@@ -1325,6 +1328,7 @@
 
 ## sql 
 
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections
