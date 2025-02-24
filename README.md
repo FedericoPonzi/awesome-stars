@@ -87,7 +87,7 @@
 - [vascofazza/gertCloner](https://github.com/vascofazza/gertCloner) - Raspberry Pi program to clone HDMI output to GERT666 VGA
 - [vascofazza/raspidmx](https://github.com/vascofazza/raspidmx) - Some examples using the DispmanX API on the Raspberry Pi
 - [vascofazza/Retropie-open-OSD](https://github.com/vascofazza/Retropie-open-OSD) - A powerful, informative, native, efficient, super cool, on-screen display software for Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [mathieupassenaud/resume_operating_system](https://github.com/mathieupassenaud/resume_operating_system) - my resume in a home made operating system
 - [rdebath/SLS-1.02](https://github.com/rdebath/SLS-1.02) - The Linux distribution from 1993
@@ -605,7 +605,7 @@
 
 ## TypeScript 
 
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
