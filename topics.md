@@ -872,6 +872,7 @@
 
 ## others 
 
+- [psu-csl/replicated-store](https://github.com/psu-csl/replicated-store) - 
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
