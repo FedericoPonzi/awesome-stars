@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [psu-csl/replicated-store](https://github.com/psu-csl/replicated-store) - 
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [NotCamelCase/Accellant](https://github.com/NotCamelCase/Accellant) - Demo SoC
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
