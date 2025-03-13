@@ -872,6 +872,7 @@
 
 ## others 
 
+- [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [psu-csl/replicated-store](https://github.com/psu-csl/replicated-store) - 
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
