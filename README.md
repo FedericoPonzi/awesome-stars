@@ -488,7 +488,6 @@
 
 ## Rust 
 
-- [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
@@ -589,6 +588,7 @@
 
 ## TLA 
 
+- [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
 - [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
 - [muratdem/PlusCal-examples](https://github.com/muratdem/PlusCal-examples) - Pluscal/TLA+ modeling of distributed systems/protocols
