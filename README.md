@@ -258,6 +258,7 @@
 
 ## JavaScript 
 
+- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive, web-based tool for exploring, visualizing, and sharing formal specifications in TLA+.
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
@@ -593,7 +594,6 @@
 - [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
 - [muratdem/PlusCal-examples](https://github.com/muratdem/PlusCal-examples) - Pluscal/TLA+ modeling of distributed systems/protocols
 - [tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
-- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive, web-based tool for exploring, visualizing, and sharing formal specifications in TLA+.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [tlaplus/Examples](https://github.com/tlaplus/Examples) - A collection of TLA⁺ specifications of varying complexities.
 - [Azure/azure-cosmos-tla](https://github.com/Azure/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
