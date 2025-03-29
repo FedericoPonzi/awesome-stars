@@ -608,7 +608,7 @@
 
 ## TypeScript 
 
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
