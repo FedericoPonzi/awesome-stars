@@ -290,6 +290,7 @@
 
 ## azure 
 
+- [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [tlaplus/azure-cosmos-tla](https://github.com/tlaplus/azure-cosmos-tla) - Azure Cosmos TLA+ specifications
 
 ## babel 
