@@ -37,6 +37,7 @@
 - [SCSS](#scss)
 - [Scala](#scala)
 - [Shell](#shell)
+- [SystemVerilog](#systemverilog)
 - [TLA](#tla)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -491,6 +492,7 @@
 
 ## Rust 
 
+- [marcua/ayb](https://github.com/marcua/ayb) - ayb makes it easy to create databases, share them with collaborators, and query them from a web application or the command line
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
@@ -586,8 +588,12 @@
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
 - [miripiruni/frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for Front End Developers
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
-- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager
+- [drduh/pwd.sh](https://github.com/drduh/pwd.sh) - GnuPG symmetric secrets manager using Bash.
 - [snowdream/awesome-android](https://github.com/snowdream/awesome-android) - android libs from github or other websites
+
+## SystemVerilog 
+
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 
 ## TLA 
 
