@@ -78,7 +78,7 @@
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [davxy/beeos](https://github.com/davxy/beeos) - A simple "Unix-like" kernel trying to be POSIX compliant
+- [davxy/beeos](https://github.com/davxy/beeos) - A simple Unix-like kernel trying to be POSIX compliant
 - [gwsw/less](https://github.com/gwsw/less) - Less - text pager
 - [vascofazza/computer_graphics-advanced-animations](https://github.com/vascofazza/computer_graphics-advanced-animations) - Simple openGL animation renderer framework in C++ with Soft Body Dynamics and cloth internal collision detection
 - [vascofazza/computer_graphics-openGL-renderer](https://github.com/vascofazza/computer_graphics-openGL-renderer) - Simple openGL shader renderer in C++ with displacement mapping and hair growing generation
