@@ -882,6 +882,7 @@
 
 ## others 
 
+- [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
