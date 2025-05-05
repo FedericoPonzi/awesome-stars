@@ -59,6 +59,7 @@
 
 ## C 
 
+- [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
