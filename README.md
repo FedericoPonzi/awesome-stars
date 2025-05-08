@@ -442,7 +442,6 @@
 ## Python 
 
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
-- [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [danieleds/GFS](https://github.com/danieleds/GFS) - GFS: a Graph-based File System Enhanced with Semantic Features
@@ -599,6 +598,7 @@
 
 ## TLA 
 
+- [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
 - [lorin/tla-linearizability](https://github.com/lorin/tla-linearizability) - Reading the linearizability paper with TLA+
