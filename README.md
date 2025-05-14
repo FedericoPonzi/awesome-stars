@@ -493,6 +493,7 @@
 
 ## Rust 
 
+- [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
 - [marcua/ayb](https://github.com/marcua/ayb) - ayb makes it easy to create databases, share them with collaborators, and query them from a web application or the command line
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
