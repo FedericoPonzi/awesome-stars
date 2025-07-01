@@ -164,7 +164,7 @@
 - [benjojo/dnsfs](https://github.com/benjojo/dnsfs) - Store your data in others DNS resolver cache
 - [google/netstack](https://github.com/google/netstack) - IPv4 and IPv6 userland network stack
 - [cloe-lang/cloe](https://github.com/cloe-lang/cloe) - Cloe programming language
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes) - Distributed Named Pipes
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -311,6 +311,7 @@
 
 ## Kotlin 
 
+- [cmu-pasta/fray](https://github.com/cmu-pasta/fray) - A controlled concurrency testing framework for the JVM
 - [vascofazza/Cloxie-connect](https://github.com/vascofazza/Cloxie-connect) - Android application that connects to the Cloxie nixie clock.
 - [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 
@@ -383,7 +384,7 @@
 - [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
 - [osdev/skeletons](https://github.com/osdev/skeletons) - Collection of bare bones kernels
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command-line tools for manipulating structured text data
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
