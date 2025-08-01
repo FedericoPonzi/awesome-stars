@@ -59,6 +59,7 @@
 
 ## C 
 
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - An x86_64 UNIX-like OS from scratch
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
@@ -499,7 +500,7 @@
 - [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
 - [marcua/ayb](https://github.com/marcua/ayb) - ayb makes it easy to create databases, share them with collaborators, and query them from a web application or the command line
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
-- [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
+- [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - In Spec We Trust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -521,7 +522,7 @@
 - [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [estebank/makeit](https://github.com/estebank/makeit) - Zero-overhead type-safe builder pattern `derive` macro for your Rust structs
-- [vmware-labs/node-replicated-kernel](https://github.com/vmware-labs/node-replicated-kernel) - Experimental kernel with built-in replication.
+- [vmware-archive/node-replicated-kernel](https://github.com/vmware-archive/node-replicated-kernel) - Experimental kernel with built-in replication.
 - [prometheus/client_rust](https://github.com/prometheus/client_rust) - Prometheus / OpenMetrics client library in Rust
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [cloudpeers/tlfs](https://github.com/cloudpeers/tlfs) - The Local-First SDK
