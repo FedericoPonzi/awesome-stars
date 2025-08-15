@@ -262,7 +262,7 @@
 
 ## JavaScript 
 
-- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive, web-based tool for exploring, visualizing, and sharing formal specifications in TLA+.
+- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive playground for exploring and sharing TLA+ specifications in the browser.
 - [gibbok/frontend-boilerplate](https://github.com/gibbok/frontend-boilerplate) - This project is an opinionated boilerplate which helps you build fast, robust, and adaptable single-page application (SPA) in TypeScript with React.
 - [clio-lang/clio](https://github.com/clio-lang/clio) - Clio is a functional, parallel, distributed programming language.
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) - "What can I do about the climate crisis?" Here are 326 things you can do.
