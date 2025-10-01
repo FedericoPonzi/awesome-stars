@@ -77,7 +77,6 @@
 - [illumos/illumos-gate](https://github.com/illumos/illumos-gate) - An open-source Unix operating system -- this is a read-only mirror of the official repository at https://code.illumos.org/plugins/gitiles/illumos-gate
 - [penberg/manticore](https://github.com/penberg/manticore) - Manticore is a research operating system, written in Rust.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
-- [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [checkra1n/PongoOS](https://github.com/checkra1n/PongoOS) - pongoOS
 - [xinu-os/xinu](https://github.com/xinu-os/xinu) - Repository for Xinu source code
 - [seL4/seL4](https://github.com/seL4/seL4) - The seL4 microkernel
@@ -501,9 +500,10 @@
 
 ## Rust 
 
+- [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
-- [marcua/ayb](https://github.com/marcua/ayb) - ayb makes it easy to create databases, share them with collaborators, and query them from a web application or the command line
+- [marcua/ayb](https://github.com/marcua/ayb) - ayb makes it easy to create databases, share them with collaborators, and query them from anywhere
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
 - [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) - An efficient, reliable parser for CommonMark, a standard dialect of Markdown
@@ -539,7 +539,6 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [aws/clock-bound](https://github.com/aws/clock-bound) - Used to generate and compare bounded timestamps.
 - [sunfishcode/mustang](https://github.com/sunfishcode/mustang) - Rust programs written entirely in Rust
-- [kubos/kubos](https://github.com/kubos/kubos) - An open source platform for satellites
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
@@ -581,6 +580,7 @@
 
 ## Scala 
 
+- [apalache-mc/apalache](https://github.com/apalache-mc/apalache) - APALACHE: symbolic model checker for TLA+ and Quint
 - [apache/pekko](https://github.com/apache/pekko) - Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
 - [WhatsApp/eqwalizer](https://github.com/WhatsApp/eqwalizer) - A type-checker for Erlang
 
