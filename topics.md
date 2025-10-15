@@ -159,6 +159,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -366,6 +367,7 @@
 
 ## chrome-extension 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 
 ## cli 
@@ -654,13 +656,12 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) - A compilation of sites with dumb password rules.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [petdance/bobby-tables](https://github.com/petdance/bobby-tables) - bobby-tables.com, the site for preventing SQL injections
@@ -875,6 +876,7 @@
 
 ## nodejs 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
@@ -914,6 +916,8 @@
 
 ## others 
 
+- [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
+- [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [apalache-mc/apalache](https://github.com/apalache-mc/apalache) - APALACHE: symbolic model checker for TLA+ and Quint
 - [cmu-pasta/fray](https://github.com/cmu-pasta/fray) - A controlled concurrency testing framework for the JVM
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - An x86_64 UNIX-like OS from scratch
@@ -940,7 +944,6 @@
 - [guidoism/tex-oberon](https://github.com/guidoism/tex-oberon) - Make Project Oberon Pretty Again
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
-- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive playground for exploring and sharing TLA+ specifications in the browser.
 - [tlaplus/CommunityModules](https://github.com/tlaplus/CommunityModules) - TLA+ snippets, operators, and modules contributed and curated by the TLA+ community
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [Manishearth/pollster](https://github.com/Manishearth/pollster) - A minimal async executor that lets you block on a future
@@ -1268,6 +1271,7 @@
 
 ## react 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
@@ -1305,6 +1309,7 @@
 
 ## rust 
 
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [microsoft/openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL
@@ -1409,6 +1414,7 @@
 
 ## svelte 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, 
 
 ## swift 
@@ -1452,6 +1458,11 @@
 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+## visualization 
+
+- [will62794/spectacle](https://github.com/will62794/spectacle) - Interactive playground for exploring and sharing TLA+ specifications in the browser.
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## vue 
 
