@@ -60,6 +60,7 @@
 
 ## C 
 
+- [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - An x86_64 UNIX-like OS from scratch
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
@@ -500,6 +501,8 @@
 
 ## Rust 
 
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
+- [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [dbrgn/embedded-hal-mock](https://github.com/dbrgn/embedded-hal-mock) - Mocks for testing embedded-hal based drivers without hardware access.
