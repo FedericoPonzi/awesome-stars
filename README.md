@@ -62,14 +62,13 @@
 
 - [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
-- [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - An x86_64 UNIX-like OS from scratch
+- [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - Mirror of my from-scratch x86_64 UNIX-like OS.
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [babbleberry/rpi4-osdev](https://github.com/babbleberry/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [codyd51/axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
-- [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
@@ -323,6 +322,7 @@
 
 ## Lean 
 
+- [HEPLean/PhysLean](https://github.com/HEPLean/PhysLean) - A project to digitalise results from physics into Lean.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Markdown 
@@ -501,6 +501,7 @@
 
 ## Rust 
 
+- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
@@ -590,6 +591,7 @@
 ## Shell 
 
 - [Mubelotix/wasm-extension-template](https://github.com/Mubelotix/wasm-extension-template) - An easy-to-use template for Rust web extensions. The Rust code is compiled to WASM and ran as a content script.
+- [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [pski/model2archive](https://github.com/pski/model2archive) - 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
