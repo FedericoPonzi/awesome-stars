@@ -104,6 +104,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
@@ -162,6 +163,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -417,6 +419,7 @@
 
 ## compiler 
 
+- [austral/austral](https://github.com/austral/austral) - Systems language with linear types and capability-based security.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -862,6 +865,11 @@
 
 - [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
 
+## mcp 
+
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
 ## microservices 
 
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
@@ -941,6 +949,7 @@
 
 ## others 
 
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
 - [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
@@ -951,7 +960,6 @@
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [psu-csl/replicated-store](https://github.com/psu-csl/replicated-store) - 
@@ -1484,6 +1492,10 @@
 ## ui 
 
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+## video 
+
+- [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 
 ## vim 
 
