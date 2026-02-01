@@ -43,6 +43,7 @@
 - [TLA](#tla)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [VHDL](#vhdl)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
 
@@ -61,6 +62,7 @@
 
 ## C 
 
+- [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
 - [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - Mirror of my from-scratch x86_64 UNIX-like OS.
@@ -212,7 +214,6 @@
 
 ## Haskell 
 
-- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [google/codeworld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -353,6 +354,7 @@
 - [AeroRust/Welcome](https://github.com/AeroRust/Welcome) - Welcome to AeroRust- a Rust 🦀 in Aerospace 🚀 community & working group
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
+- [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications) - Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 - [nauts-community/awesomenauts](https://github.com/nauts-community/awesomenauts) - Repository proposing upcycling of awesomenauts (game)
 - [deptofdefense/hack-aviation-library](https://github.com/deptofdefense/hack-aviation-library) - A collection of learning resources for budding aviation security researchers
 - [deptofdefense/hack-a-sat-library](https://github.com/deptofdefense/hack-a-sat-library) - Public library of space documents and tutorials
@@ -455,7 +457,6 @@
 
 ## Python 
 
-- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -572,7 +573,7 @@
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [rust-embedded/embedonomicon](https://github.com/rust-embedded/embedonomicon) - How to bootstrap support for a no_std target
 - [rust-embedded/register-rs](https://github.com/rust-embedded/register-rs) - Unified interface for type-safe MMIO and CPU register access in Rust
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [alepez/devand](https://github.com/alepez/devand) - DevAndDev helps developers finding pair-programming partners.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -622,6 +623,7 @@
 
 ## TLA 
 
+- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
@@ -652,6 +654,10 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
+
+## VHDL 
+
+- [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
 
 ## Vim Script 
 
