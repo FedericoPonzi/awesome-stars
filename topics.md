@@ -272,7 +272,6 @@
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -301,7 +300,6 @@
 - [t3chnoboy/awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -436,7 +434,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 
 ## computer-vision 
 
@@ -949,6 +946,8 @@
 
 ## others 
 
+- [photoszzt/tlaplus-ai-tools](https://github.com/photoszzt/tlaplus-ai-tools) - 
+- [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
 - [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
@@ -1223,7 +1222,7 @@
 
 ## physics 
 
-- [HEPLean/PhysLean](https://github.com/HEPLean/PhysLean) - A project to digitalise results from physics into Lean.
+- [lean-phys-community/PhysLean](https://github.com/lean-phys-community/PhysLean) - A project to digitalise results from physics into Lean.
 
 ## postgresql 
 
@@ -1349,6 +1348,7 @@
 
 ## rust 
 
+- [danwt/specl](https://github.com/danwt/specl) - A modern specification language and model checker for concurrent and distributed systems. Faster than TLA+/TLC.
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
