@@ -325,7 +325,7 @@
 
 ## Lean 
 
-- [HEPLean/PhysLean](https://github.com/HEPLean/PhysLean) - A project to digitalise results from physics into Lean.
+- [lean-phys-community/PhysLean](https://github.com/lean-phys-community/PhysLean) - A project to digitalise results from physics into Lean.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Markdown 
@@ -346,6 +346,7 @@
 
 ## Others 
 
+- [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
@@ -410,7 +411,6 @@
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [grvcoelho/css-styleguide](https://github.com/grvcoelho/css-styleguide) - :book: Opinionated CSS styleguide for scalable applications
 - [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [git-game/git-game](https://github.com/git-game/git-game) - terminal game to test git skills
 - [dahu/LearnVim](https://github.com/dahu/LearnVim) - A Suggested Path for Learning Vim
 - [cirosantilli/linux-insides](https://github.com/cirosantilli/linux-insides) - A little bit about a linux kernel
@@ -457,6 +457,7 @@
 
 ## Python 
 
+- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -511,6 +512,7 @@
 
 ## Rust 
 
+- [danwt/specl](https://github.com/danwt/specl) - A modern specification language and model checker for concurrent and distributed systems. Faster than TLA+/TLC.
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust
 - [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey) - Read-through cache for object storage
@@ -623,7 +625,6 @@
 
 ## TLA 
 
-- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
@@ -643,6 +644,7 @@
 
 ## TypeScript 
 
+- [photoszzt/tlaplus-ai-tools](https://github.com/photoszzt/tlaplus-ai-tools) - 
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
