@@ -24,6 +24,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [OCaml](#ocaml)
@@ -325,8 +326,12 @@
 
 ## Lean 
 
-- [lean-phys-community/PhysLean](https://github.com/lean-phys-community/PhysLean) - A project to digitalise results from physics into Lean.
+- [leanprover-community/physlib](https://github.com/leanprover-community/physlib) - A project to digitalise results from physics into Lean.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
+## Makefile 
+
+- [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
 
 ## Markdown 
 
@@ -346,6 +351,7 @@
 
 ## Others 
 
+- [donkuri/kaishi](https://github.com/donkuri/kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
 - [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
@@ -458,7 +464,7 @@
 
 ## Python 
 
-- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A Framework for Synthesizing High-Quality TLA+ Specifications from Source Code
+- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A framework for finding deep bugs in system code using TLA+
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
@@ -484,7 +490,7 @@
 - [drathier/stack-overflow-import](https://github.com/drathier/stack-overflow-import) - Import arbitrary code from Stack Overflow as Python modules.
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [alex-sherman/deco](https://github.com/alex-sherman/deco) - 
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
@@ -579,7 +585,7 @@
 - [alepez/devand](https://github.com/alepez/devand) - DevAndDev helps developers finding pair-programming partners.
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [vascofazza/chip8-emulator](https://github.com/vascofazza/chip8-emulator) - A Chip-8 emulator written in Rust
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -644,7 +650,6 @@
 
 ## TypeScript 
 
-- [photoszzt/tlaplus-ai-tools](https://github.com/photoszzt/tlaplus-ai-tools) - 
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
