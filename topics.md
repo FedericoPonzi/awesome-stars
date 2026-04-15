@@ -79,6 +79,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [google](#google)
 - [gulp](#gulp)
 - [hacking](#hacking)
@@ -114,6 +115,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [nativescript](#nativescript)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -165,6 +167,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -260,6 +263,7 @@
 
 ## awesome 
 
+- [veorq/awesome-post-quantum](https://github.com/veorq/awesome-post-quantum) - A curated list of resources about post-quantum cryptography.
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
@@ -287,6 +291,7 @@
 
 ## awesome-list 
 
+- [veorq/awesome-post-quantum](https://github.com/veorq/awesome-post-quantum) - A curated list of resources about post-quantum cryptography.
 - [penberg/awesome-os](https://github.com/penberg/awesome-os) - A curated list of resources on operating system design and implementation.
 - [orbitalindex/awesome-space](https://github.com/orbitalindex/awesome-space) - 🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index
 - [AeroRust/awesome-space](https://github.com/AeroRust/awesome-space) - List of awesome resources for Aerospace and Rust
@@ -456,6 +461,7 @@
 
 ## cryptography 
 
+- [veorq/awesome-post-quantum](https://github.com/veorq/awesome-post-quantum) - A curated list of resources about post-quantum cryptography.
 - [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
 - [Sunscreen-tech/Sunscreen](https://github.com/Sunscreen-tech/Sunscreen) - A compiler for fully homomorphic encryption and zero knowledge proofs
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
@@ -577,6 +583,7 @@
 
 ## embedded 
 
+- [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 - [tock/tock](https://github.com/tock/tock) - A secure embedded operating system for microcontrollers
 - [rust-embedded/register-rs](https://github.com/rust-embedded/register-rs) - Unified interface for type-safe MMIO and CPU register access in Rust
@@ -677,6 +684,10 @@
 - [roylee0704/gron](https://github.com/roylee0704/gron) - gron, Cron Jobs in Go.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
+## good-first-issue 
+
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
+
 ## google 
 
 - [google/santa-tracker-android](https://github.com/google/santa-tracker-android) - Ho Ho Ho
@@ -692,6 +703,7 @@
 
 ## hacktoberfest 
 
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
 - [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 - [OWASP/crAPI](https://github.com/OWASP/crAPI) - completely ridiculous API (crAPI)
@@ -919,6 +931,10 @@
 
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
 
+## nextjs 
+
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
+
 ## nlp 
 
 - [xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis) - 😀😄😂😭 A curated list of Sentiment Analysis methods, implementations and misc. 😥😟😱😤
@@ -946,6 +962,7 @@
 
 ## open-source 
 
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) - open source training courses about distributed database and distributed systems
@@ -970,6 +987,10 @@
 
 ## others 
 
+- [acm-ribeiro/glacier-generator](https://github.com/acm-ribeiro/glacier-generator) - Generates an extended OAS with Glacier contracts.
+- [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
+- [blastrock/kakugo](https://github.com/blastrock/kakugo) - Learn Japanese with Kakugo
+- [younes-io/agent-skills](https://github.com/younes-io/agent-skills) - agentic skills to write TLA+ specs or TLAPS proofs
 - [marty1885/tlgs](https://github.com/marty1885/tlgs) - "Totally Legit" Gemini Search - Open source search engine for the Gemini protocol
 - [FedericoPonzi/vfat-rs](https://github.com/FedericoPonzi/vfat-rs) - A FAT32 filesystem implementation written in rust.
 - [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
@@ -995,7 +1016,7 @@
 - [shepmaster/ebene](https://github.com/shepmaster/ebene) - 
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
-- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
+- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Core cryptographic library for Windows, Azure Linux and other products
 - [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [scuptio/sedeve-kit](https://github.com/scuptio/sedeve-kit) - In Spec We Trust
@@ -1266,7 +1287,6 @@
 ## programming 
 
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
-- [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1330,6 +1350,7 @@
 
 ## react 
 
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -1513,6 +1534,10 @@
 ## ui 
 
 - [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+## verilog 
+
+- [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 
 ## video 
 
