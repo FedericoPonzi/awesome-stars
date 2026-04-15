@@ -45,6 +45,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [VHDL](#vhdl)
+- [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
 
@@ -63,13 +64,14 @@
 
 ## C 
 
+- [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
 - [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families
 - [UnmappedStack/TacOS](https://github.com/UnmappedStack/TacOS) - Mirror of my from-scratch x86_64 UNIX-like OS.
 - [nuta/operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 - [minacle/chntpw](https://github.com/minacle/chntpw) - The Offline NT Password Editor
-- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Cryptographic library
+- [microsoft/SymCrypt](https://github.com/microsoft/SymCrypt) - Core cryptographic library for Windows, Azure Linux and other products
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
 - [sypstraw/rpi4-osdev](https://github.com/sypstraw/rpi4-osdev) - Tutorial: Writing a "bare metal" operating system for Raspberry Pi 4
 - [codyd51/axle](https://github.com/codyd51/axle) - Message-passing kernel + userspace
@@ -221,6 +223,7 @@
 
 ## Java 
 
+- [acm-ribeiro/glacier-generator](https://github.com/acm-ribeiro/glacier-generator) - Generates an extended OAS with Glacier contracts.
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [opencastsoftware/prettier4j](https://github.com/opencastsoftware/prettier4j) - A Prettier Printer for Java
 - [ocadaruma/tlaplus-intellij-plugin](https://github.com/ocadaruma/tlaplus-intellij-plugin) - Intellij plugin for TLA+ formal specification language.
@@ -321,6 +324,7 @@
 
 ## Kotlin 
 
+- [blastrock/kakugo](https://github.com/blastrock/kakugo) - Learn Japanese with Kakugo
 - [cmu-pasta/fray](https://github.com/cmu-pasta/fray) - A controlled concurrency testing framework for the JVM
 - [vascofazza/Cloxie-connect](https://github.com/vascofazza/Cloxie-connect) - Android application that connects to the Cloxie nixie clock.
 - [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
@@ -353,6 +357,8 @@
 
 ## Others 
 
+- [veorq/cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software
+- [veorq/awesome-post-quantum](https://github.com/veorq/awesome-post-quantum) - A curated list of resources about post-quantum cryptography.
 - [donkuri/kaishi](https://github.com/donkuri/kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
 - [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
@@ -466,7 +472,6 @@
 
 ## Python 
 
-- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A framework for finding deep bugs in system code using TLA+
 - [Azure/azure-cli](https://github.com/Azure/azure-cli) - Azure Command-Line Interface
 - [andrealenzi11/py-poppleract](https://github.com/andrealenzi11/py-poppleract) - Python library and Web service based on Poppler Pdftotext utility and Tesseract OCR  for extracting text from PDF documents
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
@@ -611,6 +616,7 @@
 
 ## Shell 
 
+- [younes-io/agent-skills](https://github.com/younes-io/agent-skills) - agentic skills to write TLA+ specs or TLAPS proofs
 - [Mubelotix/wasm-extension-template](https://github.com/Mubelotix/wasm-extension-template) - An easy-to-use template for Rust web extensions. The Rust code is compiled to WASM and ran as a content script.
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
 - [pski/model2archive](https://github.com/pski/model2archive) - 
@@ -633,6 +639,7 @@
 
 ## TLA 
 
+- [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A framework for finding deep bugs in system code using TLA+
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
 - [lorin/virtual-threads-tla](https://github.com/lorin/virtual-threads-tla) - Reproduce a Java 21 virtual threads deadlock scenario in TLA+
@@ -652,6 +659,7 @@
 
 ## TypeScript 
 
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
@@ -667,6 +675,10 @@
 ## VHDL 
 
 - [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
+
+## Verilog 
+
+- [olofk/serv](https://github.com/olofk/serv) - SERV - The SErial RISC-V CPU
 
 ## Vim Script 
 
