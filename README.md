@@ -14,6 +14,7 @@
 - [Dafny](#dafny)
 - [Dockerfile](#dockerfile)
 - [Erlang](#erlang)
+- [F#](#f#)
 - [Fortran](#fortran)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -44,7 +45,6 @@
 - [TLA](#tla)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
 - [Zig](#zig)
@@ -54,6 +54,7 @@
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [aws/aws-lc](https://github.com/aws/aws-lc) - AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.
 - [MaaSTaaR/539kernel](https://github.com/MaaSTaaR/539kernel) - 539kernel is a simple x86 32bit educational kernel which has been written especially for the book "A Journey in Creating an Operating System Kernel" which is available freely on &lt;https://539kernel.
+- [pski/model2archive](https://github.com/pski/model2archive) - 
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [rdebath/viruses](https://github.com/rdebath/viruses) - Hundreds of 20th Century viruses; clone this repository to upset your AV
@@ -64,6 +65,8 @@
 
 ## C 
 
+- [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS) - A modern x86_64 hobbyist operating system built from the ground up.
+- [Azure/azihsm-fw](https://github.com/Azure/azihsm-fw) - Azure Integrated HSM Firmware
 - [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
 - [alukovenko/Dendy_Joystick_USB](https://github.com/alukovenko/Dendy_Joystick_USB) - USB HID implementation for Dendy-compatible  joystick / controller
@@ -160,6 +163,10 @@
 ## Erlang 
 
 - [WhatsApp/waraft](https://github.com/WhatsApp/waraft) - An Erlang implementation of RAFT from WhatsApp
+
+## F# # 
+
+- [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
 
 ## Fortran 
 
@@ -619,14 +626,13 @@
 - [younes-io/agent-skills](https://github.com/younes-io/agent-skills) - agentic skills to write TLA+ specs or TLAPS proofs
 - [Mubelotix/wasm-extension-template](https://github.com/Mubelotix/wasm-extension-template) - An easy-to-use template for Rust web extensions. The Rust code is compiled to WASM and ran as a content script.
 - [o-oconnell/minixfromscratch](https://github.com/o-oconnell/minixfromscratch) - Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
-- [pski/model2archive](https://github.com/pski/model2archive) - 
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [vascofazza/GameBoy-Zero-Build](https://github.com/vascofazza/GameBoy-Zero-Build) - First-boot scripts for WiFi, Buttons, Graceful shutdown, HDMI screen rotation and Battery meter. Tested on a raspberryPi zero build
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [cirosantilli/linux-cheat](https://github.com/cirosantilli/linux-cheat) - Linux tutorials and cheatsheets. Minimal examples. Mostly user-land CLI utilities. Linux kernel at: https://github.com/cirosantilli/linux-kernel-module-cheat Linux教程和备忘单。 最少的例子。 主要是用户级CLI实用程序。 Linux内核
 - [miripiruni/frontdesk](https://github.com/miripiruni/frontdesk) - Community driven list of useful things for Front End Developers
@@ -671,10 +677,6 @@
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V
-
-## VHDL 
-
-- [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
 
 ## Verilog 
 
