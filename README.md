@@ -65,7 +65,9 @@
 
 ## C 
 
-- [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS) - A modern x86_64 hobbyist operating system built from the ground up.
+- [EmbSoft3/Mk](https://github.com/EmbSoft3/Mk) - Bare-metal RTOS for STM32F7 built from scratch - preemptive kernel, dynamic ELF loader, FAT filesystem, USB stack, graphical engine, and interactive shell. No external dependencies.
+- [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
+- [BoredOS/BoredOS](https://github.com/BoredOS/BoredOS) - A modern x86_64 hobbyist operating system built from the ground up.
 - [Azure/azihsm-fw](https://github.com/Azure/azihsm-fw) - Azure Integrated HSM Firmware
 - [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
@@ -343,11 +345,11 @@
 
 ## Makefile 
 
-- [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
 - [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome) - A collection of android security related resources
 
 ## Markdown 
 
+- [dreamportdev/Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes) - A book that explore how to write an Operating System from scratch
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -645,6 +647,7 @@
 
 ## TLA 
 
+- [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
 - [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A framework for finding deep bugs in system code using TLA+
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
@@ -668,7 +671,7 @@
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
-- [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
+- [quint-co/quint](https://github.com/quint-co/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA)
 - [tlaplus/vscode-tlaplus](https://github.com/tlaplus/vscode-tlaplus) - TLA+ language support for Visual Studio Code
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [gcanti/functional-programming](https://github.com/gcanti/functional-programming) - Introduction to Functional Programming (Italian)
