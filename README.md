@@ -257,7 +257,6 @@
 - [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [Tibolte/ElasticDownload](https://github.com/Tibolte/ElasticDownload) - We are not Gif makers, We are developers
 - [cSploit/android](https://github.com/cSploit/android) - cSploit - The most complete and advanced IT security professional toolkit on Android.
-- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [orhanobut/logger](https://github.com/orhanobut/logger) - ✔️ Simple, pretty and powerful logger for android
 - [AndroidDeveloperLB/MaterialPreferenceLibrary](https://github.com/AndroidDeveloperLB/MaterialPreferenceLibrary) - Allows to have an ActionBar on PreferenceActivity
 - [whymarrh/morse-code-keyboard](https://github.com/whymarrh/morse-code-keyboard) - An Android soft keyboard using Morse code.
@@ -336,6 +335,7 @@
 - [blastrock/kakugo](https://github.com/blastrock/kakugo) - Learn Japanese with Kakugo
 - [cmu-pasta/fray](https://github.com/cmu-pasta/fray) - A controlled concurrency testing framework for the JVM
 - [vascofazza/Cloxie-connect](https://github.com/vascofazza/Cloxie-connect) - Android application that connects to the Cloxie nixie clock.
+- [facebook/fresco](https://github.com/facebook/fresco) - An Android library for managing images and the memory they use.
 - [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare) - Demos the new Android Design library.
 
 ## Lean 
@@ -647,7 +647,6 @@
 
 ## TLA 
 
-- [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
 - [specula-org/Specula](https://github.com/specula-org/Specula) - Specula: A framework for finding deep bugs in system code using TLA+
 - [hwayne/tlaplus-exercises](https://github.com/hwayne/tlaplus-exercises) - Some experiments in making exercises for teaching TLA+
 - [domodwyer/tlafmt](https://github.com/domodwyer/tlafmt) - A formatter for TLA+ specs
