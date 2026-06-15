@@ -1004,7 +1004,6 @@
 - [younes-io/agent-skills](https://github.com/younes-io/agent-skills) - agentic skills to write TLA+ specs or TLAPS proofs
 - [marty1885/tlgs](https://github.com/marty1885/tlgs) - "Totally Legit" Gemini Search - Open source search engine for the Gemini protocol
 - [FedericoPonzi/vfat-rs](https://github.com/FedericoPonzi/vfat-rs) - A FAT32 filesystem implementation written in rust.
-- [gshanemiller/tla-examples](https://github.com/gshanemiller/tla-examples) - Model Checking for Industrial Programmers with TLA+
 - [donkuri/kaishi](https://github.com/donkuri/kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
 - [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [qikcik/CHIP8](https://github.com/qikcik/CHIP8) - 
