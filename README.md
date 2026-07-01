@@ -67,7 +67,7 @@
 
 - [EmbSoft3/Mk](https://github.com/EmbSoft3/Mk) - Bare-metal RTOS for STM32F7 built from scratch - preemptive kernel, dynamic ELF loader, FAT filesystem, USB stack, graphical engine, and interactive shell. No external dependencies.
 - [aryx/principia-softwarica](https://github.com/aryx/principia-softwarica) - Fork of Plan 9 meant for education. https://principia-softwarica.org/
-- [BoredOS/BoredOS](https://github.com/BoredOS/BoredOS) - A modern x86_64 hobbyist operating system built from the ground up.
+- [BoredOS/BoredOS](https://github.com/BoredOS/BoredOS) - A modern unix-like hobbyist operating system built from the ground up.
 - [Azure/azihsm-fw](https://github.com/Azure/azihsm-fw) - Azure Integrated HSM Firmware
 - [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip) - Lightweight TCP/IP stack with no dynamic memory allocations
 - [qikcik/qikcikBlog](https://github.com/qikcik/qikcikBlog) - 
@@ -102,7 +102,6 @@
 - [vascofazza/gertCloner](https://github.com/vascofazza/gertCloner) - Raspberry Pi program to clone HDMI output to GERT666 VGA
 - [vascofazza/raspidmx](https://github.com/vascofazza/raspidmx) - Some examples using the DispmanX API on the Raspberry Pi
 - [vascofazza/Retropie-open-OSD](https://github.com/vascofazza/Retropie-open-OSD) - A powerful, informative, native, efficient, super cool, on-screen display software for Raspberry Pi
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 - [mathieupassenaud/resume_operating_system](https://github.com/mathieupassenaud/resume_operating_system) - my resume in a home made operating system
 - [rdebath/SLS-1.02](https://github.com/rdebath/SLS-1.02) - The Linux distribution from 1993
@@ -186,6 +185,7 @@
 - [cloe-lang/cloe](https://github.com/cloe-lang/cloe) - Cloe programming language
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mhausenblas/dnpipes](https://github.com/mhausenblas/dnpipes) - Distributed Named Pipes
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -371,7 +371,7 @@
 - [donkuri/kaishi](https://github.com/donkuri/kaishi) - Kaishi 1.5k is a modern, modular Japanese Anki deck made for beginners who want to learn basic vocabulary.
 - [tlaplus/AgentSkills](https://github.com/tlaplus/AgentSkills) - A repository for sharing agent capabilities and expertise related to TLA+.
 - [tlaplus/patterns](https://github.com/tlaplus/patterns) - 
-- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - An FHE compiler for C++
+- [google/fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption) - Homomorphic Encryption demos
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
 - [penberg/awesome-os](https://github.com/penberg/awesome-os) - A curated list of resources on operating system design and implementation.
